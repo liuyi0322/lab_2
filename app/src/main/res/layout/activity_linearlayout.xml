@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000">
+
+    <LinearLayout
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="one,one"
+            android:background="@drawable/shape"
+            android:textColor="#fff"
+            android:layout_margin="4dp">
+
+        </TextView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="one,two"
+            android:background="@drawable/shape"
+            android:textColor="#fff"
+            android:layout_margin="4dp">
+
+        </TextView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="one,three"
+            android:background="@drawable/shape"
+            android:textColor="#fff"
+            android:layout_margin="4dp">
+
+        </TextView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="one,four"
+            android:background="@drawable/shape"
+            android:textColor="#fff"
+            android:layout_margin="4dp">
+
+        </TextView>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="two,one"
+            android:background="@drawable/shape"
+            android:textColor="#fff"
+            android:layout_margin="4dp">
+
+        </TextView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="two,two"
+            android:background="@drawable/shape"
+            android:textColor="#fff"
+            android:layout_margin="4dp">
+
+        </TextView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="two,three"
+            android:background="@drawable/shape"
+            android:textColor="#fff"
+            android:layout_margin="4dp">
+
+        </TextView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="two,four"
+            android:background="@drawable/shape"
+            android:textColor="#fff"
+            android:layout_margin="4dp">
+
+        </TextView>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="three,one"
+            android:background="@drawable/shape"
+            android:textColor="#fff"
+            android:layout_margin="4dp">
+
+        </TextView>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="three,two"
+            android:background="@drawable/shape"
+            android:textColor="#fff"
+            android:layout_margin="4dp">
+
+        </TextView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="three,three"
+        android:background="@drawable/shape"
+        android:textColor="#fff"
+        android:layout_margin="4dp">
+
+    </TextView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="three,four"
+        android:background="@drawable/shape"
+        android:textColor="#fff"
+        android:layout_margin="4dp">
+
+    </TextView>
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="four,one"
+            android:background="@drawable/shape"
+            android:textColor="#fff"
+            android:layout_margin="4dp">
+
+        </TextView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="four,two"
+        android:background="@drawable/shape"
+        android:textColor="#fff"
+        android:layout_margin="4dp">
+
+    </TextView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="four,three"
+            android:background="@drawable/shape"
+            android:textColor="#fff"
+            android:layout_margin="4dp">
+
+        </TextView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="four,four"
+            android:background="@drawable/shape"
+            android:textColor="#fff"
+            android:layout_margin="4dp">
+
+        </TextView>
+
+    </LinearLayout>
+
+
+</LinearLayout>
