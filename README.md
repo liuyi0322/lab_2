@@ -5,6 +5,6 @@
 ### This is the background style used by TextView in LinearLayout
 ![img2](https://github.com/liuyi0322/lab_2/blob/master/img/img2.png)
 ## The second is a ConstraintLayout experiment
-![img3](https://github.com/liuyi0322/lab_2/blob/master/img/img3.png)
+![img3](https://github.com/liuyi0322/lab_2/blob/master/img/img3%20.png)
 ## The third is a TableLayout experiment
 ![img4](https://github.com/liuyi0322/lab_2/blob/master/img/img4.png)
